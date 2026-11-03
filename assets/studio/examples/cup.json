@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "title": "为什么有些事，过去了还在折磨你？",
+  "aspect": "landscape",
+  "offset": 0,
+  "loop": true,
+  "scenes": [
+    {
+      "duration": 6,
+      "visual": "cup-event",
+      "heading": "有些事，明明已经过去了",
+      "caption": "可你洗澡时想一次，睡觉前又想一次。"
+    },
+    {
+      "duration": 6,
+      "visual": "cup-replay",
+      "heading": "事情只发生了一遍",
+      "caption": "你却在脑海里，重新经历了很多遍。"
+    },
+    {
+      "duration": 6,
+      "visual": "cup-event",
+      "heading": "这像是一只烫手的杯子",
+      "caption": "事情发生的时候，你被烫了一次。"
+    },
+    {
+      "duration": 6,
+      "visual": "cup-replay",
+      "heading": "“我当时为什么不那样说？”",
+      "caption": "你又把杯子拿了起来。"
+    },
+    {
+      "duration": 6,
+      "visual": "cup-replay",
+      "heading": "“他是不是觉得我很笨？”",
+      "caption": "杯子还没放下，手已经开始疼了。"
+    },
+    {
+      "duration": 6,
+      "visual": "cup-future",
+      "heading": "“万一以后再遇到怎么办？”",
+      "caption": "新的事情还没发生，担心已经开始了。"
+    },
+    {
+      "duration": 7,
+      "visual": "cup-release",
+      "heading": "回想和计划，本来都有用",
+      "caption": "但如果反复想，却没有新的办法，可以试着先停一下。"
+    },
+    {
+      "duration": 7,
+      "visual": "cup-plan",
+      "heading": "问自己：现在能做什么？",
+      "caption": "如果能做，就写下一个具体的第一步。"
+    },
+    {
+      "duration": 7,
+      "visual": "cup-note",
+      "heading": "暂时做不了，也没关系",
+      "caption": "可以记下来，留到约定的时间再想。"
+    },
+    {
+      "duration": 7,
+      "visual": "cup-close",
+      "heading": "如果已经无法改变",
+      "caption": "试着把注意力，带回眼前的一件小事。"
+    },
+    {
+      "duration": 7,
+      "visual": "cup-release",
+      "heading": "放下，不是装作没发生过",
+      "caption": "是承认自己被烫到了，再慢慢松开手。"
+    },
+    {
+      "duration": 7,
+      "visual": "cup-close",
+      "heading": "你最近放不下的是什么？",
+      "caption": "给自己一点时间，也给当下留一点空间。"
+    }
+  ]
+}
